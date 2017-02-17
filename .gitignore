@@ -1,4 +1,4 @@
 *.class
-
+*.zip
 *.java~
 .DS_Store
