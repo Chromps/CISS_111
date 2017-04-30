@@ -1,0 +1,6 @@
+TEST
+FILE
+1
+and
+a
+2
